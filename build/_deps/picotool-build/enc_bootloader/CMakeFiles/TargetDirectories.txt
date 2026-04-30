@@ -1,2 +1,0 @@
-C:/Users/jhons/Documents/MICROBOTICA/SEGUIDOR/build/_deps/picotool-build/enc_bootloader/CMakeFiles/edit_cache.dir
-C:/Users/jhons/Documents/MICROBOTICA/SEGUIDOR/build/_deps/picotool-build/enc_bootloader/CMakeFiles/rebuild_cache.dir

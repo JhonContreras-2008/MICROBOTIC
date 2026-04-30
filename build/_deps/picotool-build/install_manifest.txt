@@ -1,7 +1,0 @@
-C:/Users/jhons/Documents/MICROBOTICA/SEGUIDOR/build/_deps/picotool/picotool.exe
-C:/Users/jhons/Documents/MICROBOTICA/SEGUIDOR/build/_deps/picotool/picotoolTargets.cmake
-C:/Users/jhons/Documents/MICROBOTICA/SEGUIDOR/build/_deps/picotool/picotoolTargets-release.cmake
-C:/Users/jhons/Documents/MICROBOTICA/SEGUIDOR/build/_deps/picotool/picotoolConfig.cmake
-C:/Users/jhons/Documents/MICROBOTICA/SEGUIDOR/build/_deps/picotool/picotoolConfigVersion.cmake
-C:/Users/jhons/Documents/MICROBOTICA/SEGUIDOR/build/_deps/picotool/enc_bootloader.elf
-C:/Users/jhons/Documents/MICROBOTICA/SEGUIDOR/build/_deps/picotool/enc_bootloader_mbedtls.elf

@@ -1,2 +1,0 @@
-C:\VSARM\mingw\mingw64\bin\ar.exe qc libbintool.a CMakeFiles/bintool.dir/bintool.cpp.obj CMakeFiles/bintool.dir/mbedtls_wrapper.c.obj
-C:\VSARM\mingw\mingw64\bin\ranlib.exe libbintool.a
