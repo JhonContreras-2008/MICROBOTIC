@@ -1,0 +1,1 @@
+cmd='C:/Program Files/CMake/bin/cmake.exe;-DCMAKE_MAKE_PROGRAM:FILEPATH=C:/VSARM/mingw/mingw64/bin/mingw32-make.exe;-DPICO_SDK_PATH:FILEPATH=C:/VSARM/sdk/pico/pico-sdk;-DUSE_PRECOMPILED:BOOL=true;-DUSE_MBEDTLS=0;-DPICO_DEBUG_INFO_IN_RELEASE=OFF;-GMinGW Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'
